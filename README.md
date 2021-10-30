@@ -528,3 +528,12 @@ All of our Hooks are published into their own NPM module, so you can pick and ch
 - **[@charlietango/use-window-size](https://www.npmjs.com/package/@charlietango/use-window-size)** _([useWindowSize](packages/useWindowSize/src))_ - Get the width and height of the viewport
 
 <!-- HOOKS_END -->
+
+### `@charlietango/hooks`
+
+The [@charlietango/hooks](https://www.npmjs.com/package/@charlietango/hooks)
+module collects all of the individual modules into a single dependency. The module
+is optimized for tree shaking, so you application should only include the dependencies
+you actually use.
+
+-----
