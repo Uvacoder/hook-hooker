@@ -57,6 +57,7 @@ https://github.com/rehooks
 
  - useLocalStorageState  https://github.com/astoilkov
 
+ - usePlatform
  - useSelectedItems   https://github.com/LauraBeatris
 
 
