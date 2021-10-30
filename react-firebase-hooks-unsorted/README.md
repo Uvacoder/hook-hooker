@@ -1,5 +1,8 @@
 # React Firebase Hooks
 
+https://github.com/CSFrequency/react-firebase-hooks
+
+
 A set of reusable [React Hooks](https://reactjs.org/docs/hooks-intro.html) for [Firebase](https://firebase.google.com/).
 
 [![npm version](https://img.shields.io/npm/v/react-firebase-hooks.svg?style=flat-square)](https://www.npmjs.com/package/react-firebase-hooks)
