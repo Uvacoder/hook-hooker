@@ -72,6 +72,8 @@ https://github.com/rehooks
 
  - useHooks-unsorted  https://github.com/uidotdev
 
+ - useAsync
+
 
  # useLocalStorage
 
