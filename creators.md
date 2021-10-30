@@ -9,3 +9,6 @@
 
 - https://github.com/astoilkov/use-local-storage-state
 - https://github.com/astoilkov
+
+- https://github.com/LauraBeatris/use-selected-items-hook
+- https://github.com/LauraBeatris
