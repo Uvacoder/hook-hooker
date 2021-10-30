@@ -27,6 +27,8 @@ useListenAlong https://github.com/punctuations
 useFetch
 usePagination https://github.com/itsfaqih
 
+useEffectDebounced  https://github.com/nas5w
+
 
 # useLocalStorage
 
