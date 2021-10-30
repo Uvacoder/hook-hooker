@@ -15,3 +15,6 @@
 
 - https://github.com/lucasmogari/react-pagination
 - https://github.com/lucasmogari
+
+- https://github.com/CSFrequency/react-firebase-hooks
+- https://github.com/CSFrequency
