@@ -60,7 +60,7 @@ https://github.com/rehooks
  - usePlatform
  - useSelectedItems   https://github.com/LauraBeatris
 
- - usePagination  https://github.com/lucasmogari
+ - usePagination-headless  https://github.com/lucasmogari
 
 
 
