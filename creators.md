@@ -3,3 +3,6 @@
 
 - https://github.com/rtivital/xooks
 - https://github.com/rtivital
+
+- https://github.com/craig1123/react-recipes
+- https://github.com/craig1123
