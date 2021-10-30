@@ -16,6 +16,7 @@ useFocusTrap
 useId
 # useInteraction
 useLazyRef
+useMedia
 
 
 # useLocalStorage
