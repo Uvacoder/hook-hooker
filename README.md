@@ -1,25 +1,13 @@
 ![Crooks](https://raw.githubusercontent.com/chrisjpatty/crooks/master/logo.png)
 
-# crooks ![Travis (.org)](https://img.shields.io/travis/chrisjpatty/crooks.svg) [![](https://img.shields.io/npm/v/crooks.svg?style=flat)](https://www.npmjs.com/package/crooks) [![Coverage Status](https://coveralls.io/repos/github/chrisjpatty/crooks/badge.svg?branch=master)](https://coveralls.io/github/chrisjpatty/crooks?branch=master) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
-A collection of useful react hooks by [@chrisjpatty](https://github.com/chrisjpatty).
-
-# Installing
-
-```bash
-yarn add crooks
-```
-
-```bash
-npm install crooks --save
-```
 
 ## Available Hooks
 
-- [useLocalStorage](https://www.github.com/chrisjpatty/crooks#useLocalStorage)
-- [useFiler](https://www.github.com/chrisjpatty/crooks#useFiler)
-- [useKeyboardShortcut](https://www.github.com/chrisjpatty/crooks#useKeyboardShortcut)
-- [useOnClickOutside](https://www.github.com/chrisjpatty/crooks#useOnClickOutside)
+- [useLocalStorage](https://www.github.com/uvacoder/hook-hooker#useLocalStorage)
+- [useFiler](https://www.github.com/uvacoder/hook-hooker#useFiler)
+- [useKeyboardShortcut](https://www.github.com/uvacoder/hook-hooker#useKeyboardShortcut)
+- [useOnClickOutside](https://www.github.com/uvacoder/hook-hooker#useOnClickOutside)
 
 # useLocalStorage
 
