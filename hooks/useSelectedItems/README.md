@@ -18,6 +18,8 @@
    <a href="https://use-selected-items-hook.vercel.app/">Check out the example</a>
 </p>
 
+https://github.com/LauraBeatris/use-selected-items-hook
+
 ---
 
 # :pushpin: Table of Contents
