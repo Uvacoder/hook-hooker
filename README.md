@@ -9,6 +9,7 @@
 - [useKeyboardShortcut](https://www.github.com/uvacoder/hook-hooker#useKeyboardShortcut)
 - [useOnClickOutside](https://www.github.com/uvacoder/hook-hooker#useOnClickOutside)
 - [imageSize](https://www.github.com/uvacoder/hook-hooker#imageSize)
+- [usePermissions](https://www.github.com/uvacoder/hook-hooker#usePermissions)
 
 
 # useLocalStorage
@@ -229,4 +230,35 @@ export default function App() {
   );
 }
 
+```
+
+# usePermissions
+
+## Usage
+
+```js
+import usePermissions from '../src';
+
+const format = hasPermissions => {
+  switch (hasPermissions) {
+    // User has granted permissions
+    case true: {
+      return "Permissions granted";
+    }
+    // User has denied permissions
+    case false: {
+      return "Permissions denied";
+    }
+    // User will be prompted for permissions
+    case null: {
+      return "Asking for permissions";
+    }
+  }
+}
+
+function App() {
+  const hasPermissions = usePermissions("geolocation");
+  const content = format(hasPermissions);
+  return <h1>{content}</h1>;
+}
 ```
