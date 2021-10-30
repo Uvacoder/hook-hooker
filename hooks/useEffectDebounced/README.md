@@ -1,3 +1,7 @@
+https://github.com/Uvacoder/use-effect-debounced
+
+https://use-effect-debounced.vercel.app
+
 # useEffectDebounced
 
 This repository demonstrates creating a custom hook called `useEffectDebounced`. It works just like `useEffect` except the function you pass to `useEffectDebounced` only be executed after a user-specified amount of time (and only if the the parameters on which the effect depends do not change).
