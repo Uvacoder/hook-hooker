@@ -8,6 +8,8 @@
 - [useFiler](https://www.github.com/uvacoder/hook-hooker#useFiler)
 - [useKeyboardShortcut](https://www.github.com/uvacoder/hook-hooker#useKeyboardShortcut)
 - [useOnClickOutside](https://www.github.com/uvacoder/hook-hooker#useOnClickOutside)
+- [imageSize](https://www.github.com/uvacoder/hook-hooker#imageSize)
+
 
 # useLocalStorage
 
