@@ -10,7 +10,7 @@
 - [useOnClickOutside](https://www.github.com/uvacoder/hook-hooker#useOnClickOutside)
 - [imageSize](https://www.github.com/uvacoder/hook-hooker#imageSize)
 - [usePermissions](https://www.github.com/uvacoder/hook-hooker#usePermissions)
-
+useClientHydrated
 
 # useLocalStorage
 
@@ -261,4 +261,35 @@ function App() {
   const content = format(hasPermissions);
   return <h1>{content}</h1>;
 }
+```
+
+# useClientHydrated
+
+## API
+
+```js
+const output = useClientHydrated()
+```
+
+## Example
+
+```jsx
+import React, { useEffect, useState } from 'react'
+import useClientHydrated from '@charlietango/use-client-hydrated'
+
+const Component = () => {
+  const hydrated = useClientHydrated()
+
+  // Set the initial ready state based on hydrated. Will be `false` first time the component is rendered, but true after hydration.
+  const [ready, setReady] = useState(hydrated)
+
+  useEffect(() => {
+    // We have been hydrated correctly now
+    setReady(true)
+  }, [])
+
+  return <div>{ready ? 'Hydrated' : 'Hydrating'}</div>
+}
+
+export default Component
 ```
