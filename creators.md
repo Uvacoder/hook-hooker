@@ -21,3 +21,6 @@
 
 - https://github.com/uidotdev/usehooks
 - https://github.com/uidotdev
+
+- https://github.com/talves/react-use-hooks
+- https://github.com/talves
