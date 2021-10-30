@@ -55,6 +55,7 @@ https://github.com/rehooks
 
  - react-recipes-unsorted  https://github.com/craig1123
 
+ - useLocalStorageState  https://github.com/astoilkov
 
  # useLocalStorage
 
