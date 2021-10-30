@@ -19,4 +19,5 @@
 - https://github.com/CSFrequency/react-firebase-hooks
 - https://github.com/CSFrequency
 
-- 
+- https://github.com/uidotdev/usehooks
+- https://github.com/uidotdev
