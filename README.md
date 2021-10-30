@@ -24,6 +24,9 @@ useWindowSize
 
 useListenAlong https://github.com/punctuations
 
+useFetch
+usePagination https://github.com/itsfaqih
+
 
 # useLocalStorage
 
