@@ -45,7 +45,9 @@ https://github.com/rehooks
 
   https://github.com/domitriusclark
 
-react-hooks-lib  https://github.com/beizhedenglong
+ - react-hooks-lib  https://github.com/beizhedenglong
+
+ - cubic-bezier-hook https://github.com/beizhedenglong
 
  # useLocalStorage
 
