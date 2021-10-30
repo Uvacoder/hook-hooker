@@ -51,6 +51,7 @@ https://github.com/rehooks
 
  - usePagination-react  https://github.com/berat
 
+ - xooks-unsorted  https://github.com/rtivital
 
 
  # useLocalStorage
