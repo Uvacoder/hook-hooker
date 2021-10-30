@@ -13,5 +13,5 @@
 - https://github.com/LauraBeatris/use-selected-items-hook
 - https://github.com/LauraBeatris
 
-
+- https://github.com/lucasmogari/react-pagination
 - https://github.com/lucasmogari
