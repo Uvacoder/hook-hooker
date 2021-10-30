@@ -182,3 +182,49 @@ const App = () => {
   )
 }
 ```
+
+# imageSize
+
+## API
+
+### Params
+
+```js
+/**
+ * Params
+ * @param {string} url - The image url
+ */
+```
+
+### Returns
+
+```js
+/**
+ * Returns
+ * @param {array} size - The image size [width, height]
+ */
+```
+
+## Usage
+
+```js
+import React from 'react';
+
+import useImageSize from '@use-hooks/image-size';
+
+export default function App() {
+  const url = 'https://cdn.int64ago.org/ogk39i54.png';
+  const [width, height] = useImageSize(url);
+
+  return (
+    <div>
+      <h2>DEMO of <span style={{ color: '#F44336' }}>@use-hooks/image-size</span></h2>
+      <div>
+        <img src={url} width={100} height={100} alt="" />
+        <div>Natural size: {width} x {height}</div>
+      </div>
+    </div>
+  );
+}
+
+```
