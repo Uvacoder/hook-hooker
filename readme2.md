@@ -67,6 +67,8 @@ https://github.com/rehooks
 
  - react-firebase-hooks-unsorted  https://github.com/CSFrequency
 
+ - useBoolean
+ - useCounter  https://github.com/iamludal
 
  # useLocalStorage
 
