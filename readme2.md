@@ -62,7 +62,8 @@ https://github.com/rehooks
 
  - usePagination-headless  https://github.com/lucasmogari
 
-
+ - classForm
+ - hookForm  https://github.com/tiagofsanchez
 
 
  # useLocalStorage
