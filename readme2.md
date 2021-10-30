@@ -12,34 +12,36 @@ https://github.com/rehooks
  - [useOnClickOutside](https://www.github.com/uvacoder/hook-hooker#useOnClickOutside)
  - [imageSize](https://www.github.com/uvacoder/hook-hooker#imageSize)
  - [usePermissions](https://www.github.com/uvacoder/hook-hooker#usePermissions)
- useClientHydrated
- useElementSize
- useFocusTrap
- useId
- useInteraction
- useLazyRef
- useMedia
- useNativeLazyLoading
- useScript
- useToggle
- useWindowSize
+ - useClientHydrated
+ - useElementSize
+ - useFocusTrap
+ - useId
+ - useInteraction
+ - useLazyRef
+ - useMedia
+ - useNativeLazyLoading
+ - useScript
+ - useToggle
+ - useWindowSize
 
- useListenAlong https://github.com/punctuations
+ - useListenAlong https://github.com/punctuations
 
- useFetch
- usePagination https://github.com/itsfaqih
+ - useFetch
+ - usePagination https://github.com/itsfaqih
 
- useEffectDebounced  https://github.com/nas5w
+ - useEffectDebounced  https://github.com/nas5w
 
- useWindowDimensions
- useWindowHeight
- useWindowWidth  https://github.com/jacobdcastro
+ - useWindowDimensions
+ - useWindowHeight
+ - useWindowWidth  https://github.com/jacobdcastro
 
- captanhooks-unsorted   https://github.com/stevenpersia
+ - captanhooks-unsorted   https://github.com/stevenpersia
 
- gilbarbarahooks-unsorted    https://github.com/gilbarbara
+ - gilbarbarahooks-unsorted    https://github.com/gilbarbara
 
- useLastFM  https://github.com/alii
+ - useLastFM  https://github.com/alii
+
+ - useInputValue  https://github.com/rehooks
 
 
  # useLocalStorage
