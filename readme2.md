@@ -76,7 +76,10 @@ https://github.com/rehooks
 
  - useKeypress
 
- -   https://github.com/talves
+ - useWebStorage
+ - usePrevious
+ - useComponentSize
+ - useWindowSize  https://github.com/talves
 
  - useMediaBreakPoints
 
