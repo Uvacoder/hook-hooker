@@ -29,6 +29,9 @@ usePagination https://github.com/itsfaqih
 
 useEffectDebounced  https://github.com/nas5w
 
+useWindowDimensions
+useWindowHeight
+useWindowWidth  https://github.com/jacobdcastro
 
 # useLocalStorage
 
