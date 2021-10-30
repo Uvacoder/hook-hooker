@@ -43,6 +43,8 @@ https://github.com/rehooks
 
  - useInputValue  https://github.com/rehooks
 
+  https://github.com/domitriusclark
+
 
  # useLocalStorage
 
