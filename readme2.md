@@ -70,6 +70,9 @@ https://github.com/rehooks
  - useBoolean
  - useCounter  https://github.com/iamludal
 
+ - useHooks-unsorted  https://github.com/uidotdev
+
+
  # useLocalStorage
 
  `useLocalStorage` behaves just like the native react `useState` hook, except that any and all state updates are automatically saved in the browser\'s localstorage under the provided key. The first argument is the name of the key to save it under, and the second argument is the initial value. The hook returns the current state and an updater function just like `useState`.
