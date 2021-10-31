@@ -30,4 +30,5 @@
 - https://github.com/beizhedenglong
 
 - https://github.com/domitriusclark/use-cloudinary
+- https://github.com/domitriusclark/cloudinary-hooks
 - https://github.com/domitriusclark
