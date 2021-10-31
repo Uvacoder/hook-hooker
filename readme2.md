@@ -4,6 +4,12 @@
 
 https://github.com/rehooks
 
+[hooks-testing-library](https://github.com/beizhedenglong/reason-hooks-testing-library)
+
+[react-hooks-testing](https://react-hooks-testing-library.com)
+
+
+
  ## Available Hooks
 
  - [useLocalStorage](https://www.github.com/uvacoder/hook-hooker#useLocalStorage)
