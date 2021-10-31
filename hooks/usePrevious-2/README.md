@@ -1,3 +1,7 @@
-Clone to check out how hooks can be the new way you manage state in a React application.
+- https://github.com/Uvacoder/practice-with-hooks-docs
 
-Say goodbye to Redux (but definitely keep what you learned from it ;])
+- https://practice-with-hooks-docs.vercel.app
+
+- usePrevious
+- useReducer
+- useFriendStatus
