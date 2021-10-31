@@ -32,3 +32,6 @@
 - https://github.com/domitriusclark/use-cloudinary
 - https://github.com/domitriusclark/cloudinary-hooks
 - https://github.com/domitriusclark
+
+- https://github.com/nas5w/use-local-storage
+- https://github.com/nas5w
