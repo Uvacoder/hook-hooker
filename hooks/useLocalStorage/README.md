@@ -10,6 +10,9 @@ A flexible React Hook for using Local Storage.
 
 <hr />
 
+- https://github.com/nas5w/use-local-storage
+
+
 # Installation
 
 Install with npm
