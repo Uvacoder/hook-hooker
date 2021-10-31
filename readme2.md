@@ -92,6 +92,7 @@ https://github.com/rehooks
  -  hookToHoc 
  -  hookToRenderProps  https://github.com/beizhedenglong
 
+ - useCloudinary
  - use-cloudinary  https://github.com/domitriusclark
 
  # useLocalStorage
