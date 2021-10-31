@@ -24,3 +24,5 @@
 
 - https://github.com/talves/react-use-hooks
 - https://github.com/talves
+
+- https://github.com/beizhedenglong/hooks-to-others
