@@ -1,3 +1,7 @@
+- https://github.com/domitriusclark/cloudinary-hooks
+- https://github.com/Uvacoder/cloudinary-hooks
+- https://cloudinary-hooks.vercel.app
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
