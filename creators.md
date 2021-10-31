@@ -28,3 +28,6 @@
 - https://github.com/beizhedenglong/hooks-to-others
 - https://github.com/beizhedenglong/react-hooks-lib
 - https://github.com/beizhedenglong
+
+- https://github.com/domitriusclark/use-cloudinary
+- https://github.com/domitriusclark
