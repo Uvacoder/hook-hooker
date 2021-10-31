@@ -1,5 +1,7 @@
 # use-cloudinary
 
+https://github.com/domitriusclark/use-cloudinary
+
 > Lightweight hooks for generating URL's of your cloudinary assets and adding transformations
 
 
