@@ -95,6 +95,10 @@ https://github.com/rehooks
  - useCloudinary
  - use-cloudinary  https://github.com/domitriusclark
 
+- usePrevious
+- useReducer
+- useFriendStatus
+
  # useLocalStorage
 
  `useLocalStorage` behaves just like the native react `useState` hook, except that any and all state updates are automatically saved in the browser\'s localstorage under the provided key. The first argument is the name of the key to save it under, and the second argument is the initial value. The hook returns the current state and an updater function just like `useState`.
