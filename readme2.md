@@ -102,7 +102,7 @@ https://github.com/rehooks
 - react-state-hooks
 - simple-state
 - complex-state
-- global-state
+- global-state   https://www.robinwieruch.de/react-state-usereducer-usestate-usecontext
 
 
 
